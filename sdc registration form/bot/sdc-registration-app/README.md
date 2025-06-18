@@ -1,4 +1,4 @@
-# Student Developer Club Registration System
+# Software Development Club Registration System
 
 A modern web application for managing student registrations for the Developer Club. Built with React, Node.js, Express, and PostgreSQL.
 
